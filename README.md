@@ -5,10 +5,6 @@
 <!-- Replace YOUR_USERNAME/YOUR_REPO with your actual GitHub path.       -->
 [![Java CI with Maven](https://github.com/DavidE008/Maven/actions/workflows/maven.yml/badge.svg)](https://github.com/DavidE008/Maven/actions/workflows/maven.yml)
 
-![Build Status](https://github.com/UHSETeaching/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://github.com/UHSETeaching/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
-![Branches](https://github.com/UHSETeaching/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg)
-
 Hi
 A simple Java project that demonstrates core Maven (build system) concepts and CI/CD with GitHub Actions.
 
