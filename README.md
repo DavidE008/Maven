@@ -1,7 +1,6 @@
 # Word Frequency Analyzer — Maven Build System Demo
 
 <!-- ── CI BADGES ─────────────────────────────────────────────────────── -->
-<!-- These badges are auto-updated by the CI pipeline on every push.     -->
 
 [![Java CI with Maven](https://github.com/DavidE008/Maven/actions/workflows/maven.yml/badge.svg)](https://github.com/DavidE008/Maven/actions/workflows/maven.yml)
 
